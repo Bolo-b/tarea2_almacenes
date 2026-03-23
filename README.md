@@ -4,8 +4,8 @@ Se aplico la metodologi­a **CRISP-DM** para realizar una limpieza profunda y un
 
 ## Estructura del Proyecto
 * `RNPDNO-22-08-2023.csv`: Dataset original asignado al Equipo 1.
-* `limpieza_RNPDNO.ipynb`: **(Fase de Preparación)** Notebook reproducible con el proceso de limpieza, normalización y validación de datos.
-* `EDA_desaparecidos.ipynb`: **(Fase de Modelado)** Notebook con el análisis estadístico, medidas de tendencia central, heterogeneidad y hallazgos.
+* `limpieza_RNPDNO.ipynb`: Notebook reproducible con el proceso de limpieza, normalización y validación de datos.
+* `EDA_desaparecidos.ipynb`: Notebook con el análisis estadístico, medidas de tendencia central, heterogeneidad y hallazgos.
 * `requirements.txt`: Archivo de dependencias para asegurar la reproducibilidad del entorno.
 * `_quarto.yml` & `index.qmd`: Archivos de configuración para la generación del **Quarto Book**.
 ## Instrucciones de Ejecucion
