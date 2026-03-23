@@ -17,7 +17,6 @@ Windows: `env\Scripts\activate` o  `\env\Scripts\Activate.ps1`.
 5. Ejecutar los notebooks en orden:
     Para la limpieza y generacion del .csv limpio:
     `limpieza_RNPDNO.ipynb`
-    (FALTAN ARCHIVOS)
 ## Integrantes
 * Cano Tenorio Alan Kevin
 * Gomez Calva Carlos Manuel
