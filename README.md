@@ -19,7 +19,7 @@ Windows: `env\Scripts\activate` o  `\env\Scripts\Activate.ps1`.
     `limpieza_RNPDNO.ipynb`
     (FALTAN ARCHIVOS)
 ## Integrantes
-1.Cano Tenorio Alan Kevin
-2.Gomez Calva Carlos Manuel
-3.Lechuga Hervert Maximiliano
-4.Vázquez Rincón Oscar
+* Cano Tenorio Alan Kevin
+* Gomez Calva Carlos Manuel
+* Lechuga Hervert Maximiliano
+* Vázquez Rincón Oscar
