@@ -1,0 +1,15 @@
+project:
+  type: book
+
+book:
+  title: "Análisis RNPDNO - Equipo 1"
+  author: "Equipo 1"
+  chapters:
+    - index.qmd
+    - limpieza_RNPDNO.ipynb
+    - EDA_desaparecidos.ipynb
+    - reporte_final.qmd
+
+format:
+  html:
+    theme: cosmo

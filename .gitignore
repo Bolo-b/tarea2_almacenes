@@ -1,0 +1,10 @@
+# Entorno virtual
+env/
+venv/
+
+# Datos
+*.csv
+
+!RNPDNO-22-08-2023.csv
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,8 @@
+# Introducción
+
+Este libro digital contiene el trabajo del **Equipo 1** para la materia de Almacenes y Minería de Datos. 
+
+Aquí encontrarás:
+- El proceso de limpieza profunda del dataset RNPDNO.
+- El análisis exploratorio de datos (EDA).
+- Los 8 hallazgos principales y conclusiones.
