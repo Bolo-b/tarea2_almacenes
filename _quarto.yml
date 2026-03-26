@@ -6,6 +6,7 @@ book:
   author: "Equipo 1"
   chapters:
     - index.qmd
+    - descripción.ipynb
     - limpieza_RNPDNO.ipynb
     - EDA_desaparecidos.ipynb
     - reporte_final.qmd
