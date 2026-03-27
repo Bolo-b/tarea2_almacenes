@@ -8,6 +8,7 @@ book:
     - index.qmd
     - descripción.ipynb
     - limpieza_RNPDNO.ipynb
+    - Analisis.ipynb
     - EDA_desaparecidos.ipynb
     - reporte_final.qmd
 
